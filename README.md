@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Environment Setup
 
-Things you may want to cover:
+Ruby 2.3.7 and Rails 5.2.0
 
-* Ruby version
+# Run Application
 
-* System dependencies
+```rails server```
 
-* Configuration
+# Run Tests
 
-* Database creation
+N/A
 
-* Database initialization
+# Deploy
 
-* How to run the test suite
+```heroku open```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Navigate to [https://rails-hello-app333.herokuapp.com/](https://rails-hello-app333.herokuapp.com/)
